@@ -1,0 +1,1860 @@
+generated: '2026-07-17'
+method: searched
+source: https://sapphireventures.com/companies/
+summary:
+  portfolio_total: 177
+  in_network: 80
+  api_providers: 58
+  missing: 97
+  stubs_created: 0
+companies:
+- name: 23andMe
+  url: https://www.23andme.com/
+  description: Consumer genetics and genomics testing.
+  sector: healthtech
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 23andme
+- name: 6sense
+  url: https://6sense.com/
+  description: Account-based marketing and revenue AI platform.
+  sector: martech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: 6sense
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ActivTrak
+  url: https://www.activtrak.com/
+  description: Workforce analytics and productivity monitoring.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: activtrak
+- name: Adverity
+  url: https://www.adverity.com/
+  description: Marketing data integration and analytics platform.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: adverity
+- name: Aepona
+  url: https://www.aepona.com/
+  description: Telecom API and network monetization platform.
+  sector: infrastructure
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aepona
+- name: Alation
+  url: https://www.alation.com/
+  description: Enterprise data catalog and governance platform.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: alation
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Alfresco
+  url: https://www.alfresco.com/
+  description: Enterprise content management and BPM platform.
+  sector: saas
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: activiti
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: AllyO
+  url: https://www.allyo.com/
+  description: AI recruiting and hiring automation.
+  sector: hr-tech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: allyo
+- name: Anrok
+  url: https://www.anrok.com/
+  description: Sales tax compliance platform for SaaS.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: anrok
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Apigee
+  url: https://www.apigee.com/
+  description: API management platform.
+  sector: infrastructure
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: apigee
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Apriso (Dassault Systemes)
+  url: https://www.3ds.com/about-3ds/announcement/apriso/
+  description: Manufacturing operations management software.
+  sector: saas
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: dassault
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ask Sage
+  url: https://www.asksage.ai/
+  description: Generative AI platform for government and enterprise.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ask-sage
+- name: Attentive
+  url: https://www.attentivemobile.com/
+  description: Conversational SMS marketing platform.
+  sector: martech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: attentive
+- name: Auth0
+  url: https://www.auth0.com/
+  description: Identity and authentication platform for developers.
+  sector: security
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: auth0
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: AvidXchange
+  url: https://www.avidxchange.com/
+  description: Accounts payable automation for the middle market.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: avidxchange
+- name: Baseten
+  url: https://www.baseten.co/
+  description: ML model serving and inference infrastructure.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: baseten
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: BetterUp
+  url: https://www.betterup.com/
+  description: Coaching and professional development platform.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: betterup
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: BioCatch
+  url: https://www.biocatch.com/
+  description: Behavioral biometrics fraud prevention.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: biocatch
+- name: Black Duck Software
+  url: https://www.blackducksoftware.com/
+  description: Open source security and license compliance.
+  sector: security
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: black-duck-software
+- name: Blockdaemon
+  url: https://blockdaemon.com/
+  description: Blockchain node infrastructure and staking.
+  sector: web3
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: blockdaemon
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Blue J
+  url: https://www.bluej.com/
+  description: AI tax and legal research platform.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blue-j
+- name: Braze
+  url: https://www.braze.com/
+  description: Customer engagement and messaging platform.
+  sector: martech
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  slug: braze
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Bretton
+  url: https://www.bretton.com/
+  description: Financial software.
+  sector: fintech
+  stage: growth
+  status: unknown
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bretton
+- name: Brightfield
+  url: https://www.brightfield.com/
+  description: Workforce and talent analytics platform.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brightfield
+- name: CaptivateIQ
+  url: https://www.captivateiq.com/
+  description: Sales commission and incentive compensation.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: captivateiq
+- name: Catchpoint
+  url: https://www.catchpoint.com/
+  description: Internet performance and digital experience monitoring.
+  sector: devops
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: catchpoint
+- name: Cazoo
+  url: https://www.cazoo.co.uk/
+  description: Online used-car retailer.
+  sector: ecommerce
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cazoo
+- name: Chai Discovery
+  url: https://www.chaidiscovery.com/
+  description: AI for molecular and drug discovery.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chai-discovery
+- name: Chargebee
+  url: https://www.chargebee.com/
+  description: Subscription billing and revenue management.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: chargebee
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CircleCI
+  url: https://circleci.com/
+  description: Continuous integration and delivery platform.
+  sector: devops
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: circleci
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Clari
+  url: https://www.clari.com/
+  description: Revenue operations and forecasting platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: clari
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Clay
+  url: https://www.clay.com/
+  description: Data enrichment and GTM automation platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: clay
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: CloudHealth
+  url: https://www.cloudhealthtech.com/
+  description: Cloud cost management and governance.
+  sector: devops
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: cloudhealth
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cohesity
+  url: https://www.cohesity.com/
+  description: Data management and backup platform.
+  sector: infrastructure
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: cohesity
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Collectly
+  url: https://www.collectly.co/
+  description: Patient billing and payments platform.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: collectly
+- name: Altruist (iConnectiva)
+  url: http://www.altruistindia.com/iConnectiva/
+  description: Telecom software and services.
+  sector: infrastructure
+  stage: growth
+  status: unknown
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: altruist-iconnectiva
+- name: Constructor
+  url: https://constructor.com/
+  description: AI-powered ecommerce search and discovery.
+  sector: ecommerce
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: constructor
+- name: Contentful
+  url: https://www.contentful.com/
+  description: Headless content management platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: contentful
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Control4
+  url: https://www.control4.com/
+  description: Smart home automation systems.
+  sector: iot
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: control4
+- name: Convercent
+  url: https://www.convercent.com/
+  description: Ethics and compliance management platform.
+  sector: saas
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: convercent
+- name: Creatio
+  url: https://www.creatio.com/
+  description: No-code CRM and workflow automation.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: creatio
+- name: Criteo
+  url: https://www.criteo.com/
+  description: Commerce media and advertising platform.
+  sector: martech
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  slug: criteo
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Culture Amp
+  url: https://www.cultureamp.com/
+  description: Employee experience and engagement platform.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: culture-amp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Currencycloud
+  url: https://www.currencycloud.com/
+  description: Cross-border payments infrastructure.
+  sector: fintech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: currencycloud
+- name: Current
+  url: https://current.com/
+  description: Consumer fintech and banking app.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: current
+- name: Cyera
+  url: https://www.cyera.io/
+  description: Data security posture management platform.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: cyera
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Cypress
+  url: https://www.cypress.io/
+  description: End-to-end web testing framework.
+  sector: devops
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: test-scripts
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: DataRobot
+  url: https://www.datarobot.com/
+  description: Enterprise AI and machine learning platform.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: datarobot
+- name: Defense Unicorns
+  url: https://www.defenseunicorns.com/
+  description: Secure software delivery for defense and government.
+  sector: infrastructure
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: defense-unicorns
+- name: Degreed
+  url: https://degreed.com/
+  description: Skills and learning experience platform.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: degreed
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: DocuSign
+  url: https://www.docusign.com/
+  description: Electronic signature and agreement management.
+  sector: saas
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  slug: docusign
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Dremio
+  url: https://www.dremio.com/
+  description: Data lakehouse and analytics platform.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: dremio-intelligent-lakehouse-platform
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: EliseAI
+  url: https://www.eliseai.com/
+  description: Conversational AI for housing and healthcare.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eliseai
+- name: Exabeam
+  url: https://www.exabeam.com/
+  description: Security information and event management (SIEM).
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: exabeam
+- name: FalconX
+  url: https://falconx.io/
+  description: Digital-asset prime brokerage and trading.
+  sector: web3
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: falconx
+- name: Feedzai
+  url: https://www.feedzai.com/
+  description: AI fraud detection and financial crime prevention.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: feedzai
+- name: Fitbit
+  url: https://www.fitbit.com/
+  description: Wearable fitness and health devices.
+  sector: consumer
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: fitbit
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Five9
+  url: https://www.five9.com/
+  description: Cloud contact center software.
+  sector: saas
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  slug: five9
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: FloQast
+  url: https://floqast.com/
+  description: Accounting close and compliance automation.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: floqast
+- name: Gamma
+  url: https://gamma.app/
+  description: AI presentation and content creation platform.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gamma
+- name: Gem
+  url: https://www.gem.com/
+  description: Recruiting CRM and talent engagement.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: gem-com
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: GitGuardian
+  url: https://www.gitguardian.com/
+  description: Secrets detection and code security.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: gitguardian
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Glean
+  url: https://www.glean.com/
+  description: Enterprise AI search and work assistant.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: glean
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Gorgias
+  url: https://www.gorgias.com/
+  description: Ecommerce customer support and helpdesk.
+  sector: ecommerce
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: gorgias
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Grafana Labs
+  url: https://grafana.com/
+  description: Observability and monitoring dashboards.
+  sector: devops
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: grafana
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Highspot
+  url: https://www.highspot.com/
+  description: Sales enablement platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: highspot
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Hightouch
+  url: https://hightouch.com/
+  description: Data activation and reverse ETL platform.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: hightouch
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Huntress
+  url: https://www.huntress.com/
+  description: Managed security for SMBs.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: huntress
+- name: IEX
+  url: https://www.iextrading.com/
+  description: Stock exchange and market infrastructure.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: iex
+- name: IgniteTech
+  url: https://www.ignitetech.com/
+  description: Enterprise software portfolio operator.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ignitetech
+- name: Imprivata
+  url: https://www.imprivata.com/
+  description: Healthcare identity and access management.
+  sector: security
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: imprivata
+- name: InfluxData
+  url: https://www.influxdata.com/
+  description: Time-series database platform.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: influxdb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Inkling
+  url: https://www.inkling.com/
+  description: Digital learning and enablement platform.
+  sector: hr-tech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: inkling
+- name: Integral Ad Science
+  url: https://www.integralads.com/
+  description: Digital ad verification and measurement.
+  sector: martech
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  slug: integral-ad-science
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Intercom
+  url: https://www.intercom.com/
+  description: Customer service and messaging platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: intercom
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: iovation
+  url: https://www.iovation.com/
+  description: Device intelligence and fraud prevention.
+  sector: security
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: iovation
+- name: Iron.io
+  url: https://www.iron.io/
+  description: Serverless message queue and job processing.
+  sector: infrastructure
+  stage: growth
+  status: unknown
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ironio
+- name: iTAC Software
+  url: https://www.itacsoftware.com/
+  description: Manufacturing execution systems.
+  sector: saas
+  stage: growth
+  status: unknown
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: itac-software
+- name: Jaspersoft
+  url: https://www.jaspersoft.com/
+  description: Embedded business intelligence and reporting.
+  sector: data-analytics
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jaspersoft
+- name: Jeeva AI
+  url: https://www.jeeva.ai/
+  description: AI sales development platform.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jeeva-ai
+- name: JFrog
+  url: https://www.jfrog.com/
+  description: DevOps and software supply chain platform.
+  sector: devops
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  slug: jfrog
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Jibe
+  url: https://www.jibe.com/
+  description: Recruitment marketing platform.
+  sector: hr-tech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jibe
+- name: JumpCloud
+  url: https://jumpcloud.com/
+  description: Cloud directory and device management.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: jumpcloud
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: JupiterOne
+  url: https://jupiterone.com/
+  description: Cyber asset attack surface management.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jupiterone
+- name: Kaltura
+  url: https://corp.kaltura.com/
+  description: Video experience and streaming platform.
+  sector: saas
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  slug: kaltura
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kong
+  url: https://konghq.com/
+  description: API gateway and connectivity platform.
+  sector: infrastructure
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: ai-gateway
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: LangChain
+  url: https://www.langchain.com/
+  description: Framework and platform for LLM applications.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: langchain
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lavante
+  url: http://www.lavante.com/
+  description: Supplier management and recovery audit.
+  sector: saas
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lavante
+- name: LeanData
+  url: https://www.leandatainc.com/
+  description: Lead-to-account matching and routing.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: leandata
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lithium
+  url: https://www.lithium.com/
+  description: Social customer experience platform.
+  sector: martech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lithium
+- name: Livongo
+  url: https://www.livongo.com/
+  description: Digital chronic condition management.
+  sector: healthtech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: livongo
+- name: Localytics
+  url: https://www.localytics.com/
+  description: Mobile app analytics and engagement.
+  sector: martech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: localytics
+- name: TIBCO
+  url: https://www.tibco.com/
+  description: Integration and analytics middleware.
+  sector: infrastructure
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: tibco
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Looker
+  url: https://www.looker.com/
+  description: Business intelligence and analytics platform.
+  sector: data-analytics
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: looker
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Marin Software
+  url: https://www.marinsoftware.com/
+  description: Digital advertising management.
+  sector: martech
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: marin-software
+- name: Matillion
+  url: https://www.matillion.com/
+  description: Cloud data integration and transformation.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: matillion
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Medable
+  url: https://www.medable.com/
+  description: Decentralized clinical trials platform.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: medable
+- name: Mercury
+  url: https://mercury.com/
+  description: Banking and finance platform for startups.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: mercury
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Mirantis
+  url: https://www.mirantis.com/
+  description: Kubernetes and cloud-native platform.
+  sector: infrastructure
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: mirantis
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: monday.com
+  url: http://monday.com/
+  description: Work operating system and project management.
+  sector: saas
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  slug: monday
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Moveworks
+  url: https://www.moveworks.com/
+  description: AI copilot for enterprise employee support.
+  sector: ai
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: moveworks
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: MuleSoft
+  url: https://www.mulesoft.com/
+  description: API-led integration platform.
+  sector: infrastructure
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: mulesoft
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Narrative Science
+  url: https://www.narrativescience.com/
+  description: Natural language generation for analytics.
+  sector: ai
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: narrative-science
+- name: Netskope
+  url: https://www.netskope.com/
+  description: Secure access service edge (SASE) platform.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: netskope
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Newgen Software
+  url: https://www.newgensoft.com/
+  description: Low-code process and content automation.
+  sector: saas
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: newgen-software
+- name: OnDeck
+  url: https://www.ondeck.com/
+  description: Online small-business lending.
+  sector: fintech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: ondeck
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Onebrief
+  url: https://www.onebrief.com/
+  description: Military staff planning and workflow software.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: onebrief
+- name: OpsRamp
+  url: https://www.opsramp.com/
+  description: IT operations and observability platform.
+  sector: devops
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: opsramp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Outreach
+  url: https://www.outreach.io/
+  description: Sales engagement and execution platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: outreach
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Own (OwnBackup)
+  url: https://www.ownbackup.com/
+  description: SaaS data protection and backup.
+  sector: infrastructure
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: own-ownbackup
+- name: Paper
+  url: https://paper.co/
+  description: Online tutoring and learning support.
+  sector: edtech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: paper
+- name: Paradox
+  url: https://www.paradox.ai/
+  description: Conversational AI recruiting assistant.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: paradox
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: PayScale
+  url: https://www.payscale.com/
+  description: Compensation data and management.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: payscale
+- name: Paytm Payments Bank
+  url: https://www.paytmbank.com/home
+  description: Digital banking and payments in India.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: paytm-payments-bank
+- name: Pendo
+  url: https://www.pendo.io/
+  description: Product experience and analytics platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: pendo
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Phoenix Labs
+  url: https://phxlabs.ca/
+  description: Game development studio.
+  sector: gaming
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: phoenix-labs
+- name: Ping Identity
+  url: https://www.pingidentity.com/
+  description: Enterprise identity and access management.
+  sector: security
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: forgerock
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Podium
+  url: https://www.podium.com/
+  description: Local business messaging and reviews platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: podium
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Privacera
+  url: https://privacera.com/
+  description: Data access governance and security.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: privacera
+- name: project44
+  url: https://www.project44.com/
+  description: Supply-chain visibility platform.
+  sector: logistics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: project44
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: PubNub
+  url: https://www.pubnub.com/
+  description: Realtime messaging and edge infrastructure.
+  sector: infrastructure
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: pubnub
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Punchh
+  url: https://www.punchh.com/
+  description: Customer loyalty and engagement for restaurants.
+  sector: martech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: punchh
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Qualified
+  url: https://www.qualified.com/
+  description: Pipeline generation and AI SDR platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: qualified
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Qubit
+  url: https://www.qubit.com/
+  description: Ecommerce personalization platform.
+  sector: ecommerce
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qubit
+- name: Qumu
+  url: https://www.qumu.com/
+  description: Enterprise video platform.
+  sector: saas
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qumu
+- name: Rain
+  url: https://www.rain.xyz/
+  description: Crypto rewards and payments card.
+  sector: web3
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rain
+- name: Recommind
+  url: https://www.recommind.com/
+  description: E-discovery and information governance.
+  sector: saas
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: recommind
+- name: Reltio
+  url: https://www.reltio.com/
+  description: Master data management platform.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: reltio
+- name: Reonomy
+  url: https://www.reonomy.com/
+  description: Commercial real estate data platform.
+  sector: data-analytics
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: reonomy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Restream
+  url: https://restream.io/
+  description: Live streaming and multistreaming platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: restream
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Return Path
+  url: https://www.returnpath.com/
+  description: Email deliverability and data.
+  sector: martech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: return-path
+- name: Rewst
+  url: https://rewst.io/
+  description: Automation platform for managed service providers.
+  sector: devops
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rewst
+- name: SafeGraph
+  url: https://www.safegraph.com/
+  description: Places and geospatial data.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: safegraph
+- name: Seismic
+  url: https://www.seismic.com/
+  description: Sales enablement and content platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: seismic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Scytl
+  url: https://www.scytl.com/
+  description: Secure online voting and election technology.
+  sector: govtech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: scytl
+- name: Segment
+  url: https://www.segment.com/
+  description: Customer data platform.
+  sector: data-analytics
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: segment
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Side
+  url: https://www.sideinc.com/
+  description: Real estate brokerage technology platform.
+  sector: proptech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: side
+- name: Simpplr
+  url: https://www.simpplr.com/
+  description: AI-powered employee intranet platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: simpplr
+- name: Socrata
+  url: https://www.socrata.com/
+  description: Open data platform for government.
+  sector: govtech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: socrata
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Splashtop
+  url: https://www.splashtop.com/
+  description: Remote access and support software.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: splashtop
+- name: Spring Global
+  url: https://springglobal.com/
+  description: Retail execution and field sales software.
+  sector: saas
+  stage: growth
+  status: unknown
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spring-global
+- name: Square (Block)
+  url: https://www.squareup.com/
+  description: Payments and commerce platform.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  slug: block
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: StackHawk
+  url: https://www.stackhawk.com/
+  description: Application and API security testing.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: stackhawk
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: StarTree
+  url: https://www.startree.ai/
+  description: Real-time analytics platform (Apache Pinot).
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: startree
+- name: Sumo Logic
+  url: https://www.sumologic.com/
+  description: Cloud log management and security analytics.
+  sector: devops
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  slug: sumologic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Sun Basket
+  url: https://www.sunbasket.com/
+  description: Meal-kit delivery service.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sun-basket
+- name: Supio
+  url: https://www.supio.com/
+  description: AI platform for legal case work.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: supio
+- name: Sword Health
+  url: https://swordhealth.com/
+  description: Digital musculoskeletal care platform.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sword-health
+- name: TaxBit
+  url: https://taxbit.com/
+  description: Crypto tax and accounting compliance.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: taxbit
+- name: Acoustic
+  url: https://www.acoustic.com/tealeaf
+  description: Marketing and customer engagement platform.
+  sector: martech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: acoustic
+- name: Temporal
+  url: https://temporal.io/
+  description: Durable execution and workflow orchestration.
+  sector: infrastructure
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: temporal
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Tesseract
+  url: https://tesseractinvestment.com/
+  description: Investment and financial services.
+  sector: fintech
+  stage: growth
+  status: unknown
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tesseract
+- name: Tetrate
+  url: http://tetrate.com/
+  description: Service mesh and application connectivity.
+  sector: infrastructure
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: tetrate
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: ThoughtSpot
+  url: https://www.thoughtspot.com/
+  description: AI-powered analytics and BI platform.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: thoughtspot
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ticketfly
+  url: https://www.ticketfly.com/
+  description: Event ticketing platform.
+  sector: consumer
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ticketfly
+- name: Tonal
+  url: https://tonal.com/
+  description: Connected home strength-training system.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tonal
+- name: TRACTIAN
+  url: https://tractian.com/en
+  description: Industrial machine monitoring and maintenance.
+  sector: iot
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tractian
+- name: Tradewind Markets
+  url: https://www.tradewindmarkets.com/
+  description: Digital precious-metals trading.
+  sector: fintech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tradewind-markets
+- name: Tremor Video
+  url: https://www.tremorvideodsp.com/
+  description: Video advertising demand-side platform.
+  sector: martech
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tremor-video
+- name: UJET
+  url: https://ujet.cx/
+  description: Cloud contact center and CX platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ujet
+- name: Unmind
+  url: https://unmind.com/
+  description: Workplace mental health and wellbeing.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: unmind
+- name: Uptycs
+  url: https://www.uptycs.com/
+  description: Cloud and endpoint security analytics.
+  sector: security
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: uptycs
+- name: Upvest
+  url: https://upvest.co/
+  description: Investment API infrastructure.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: upvest
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Vendavo
+  url: https://www.vendavo.com/
+  description: B2B pricing and revenue optimization.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vendavo
+- name: Verbit
+  url: https://verbit.ai/
+  description: AI transcription and captioning.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: verbit
+- name: Verse Medical
+  url: https://www.versemedical.com/
+  description: Home-based clinical care software.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: verse-medical
+- name: Violin Systems
+  url: https://www.violinsystems.com/
+  description: All-flash storage arrays.
+  sector: infrastructure
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: violin-systems
+- name: Wandera
+  url: https://www.wandera.com/
+  description: Mobile security and threat defense.
+  sector: security
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wandera
+- name: Weights & Biases
+  url: https://wandb.ai/site
+  description: ML experiment tracking and MLOps.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: wandb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: WeTravel
+  url: https://www.wetravel.com/
+  description: Payments and booking for travel businesses.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wetravel
+- name: Wise (TransferWise)
+  url: https://www.transferwise.com/
+  description: International money transfer platform.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wise-transferwise
+- name: WorkOS
+  url: https://workos.com/
+  description: Enterprise-readiness APIs for developers.
+  sector: infrastructure
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: workos
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Yapily
+  url: https://www.yapily.com/
+  description: Open banking API infrastructure.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: yapily
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Yellow.ai
+  url: https://yellow.ai/
+  description: Conversational AI and customer automation.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yellowai
+- name: Yugabyte
+  url: https://www.yugabyte.com/
+  description: Distributed SQL database.
+  sector: data-analytics
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: yugabytedb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Zend
+  url: https://www.zend.com/
+  description: PHP application platform and runtime.
+  sector: infrastructure
+  stage: growth
+  status: acquired
+  source: https://sapphireventures.com/companies/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zend
+- name: Zesty
+  url: https://zesty.co/
+  description: Cloud infrastructure cost optimization.
+  sector: devops
+  stage: growth
+  status: active
+  source: https://sapphireventures.com/companies/
+  slug: zesty
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
