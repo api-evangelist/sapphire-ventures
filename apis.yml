@@ -44,7 +44,7 @@ accessModel:
 image: https://sapphireventures.com/wp-content/uploads/2021/06/sapphire-logo.png
 created: '2026-07-17'
 modified: '2026-07-17'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: Website
