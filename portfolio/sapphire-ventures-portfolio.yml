@@ -3,9 +3,9 @@ method: searched
 source: https://sapphireventures.com/companies/
 summary:
   portfolio_total: 177
-  in_network: 177
-  api_providers: 70
-  missing: 0
+  in_network: 172
+  api_providers: 82
+  missing: 5
   stubs_created: 0
 companies:
 - name: 23andMe
@@ -213,10 +213,9 @@ companies:
   stage: growth
   status: acquired
   source: https://sapphireventures.com/companies/
-  slug: black-duck-software
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: black-duck-software
 - name: Blockdaemon
   url: https://blockdaemon.com/
   description: Blockchain node infrastructure and staking.
@@ -226,7 +225,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: blockdaemon
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Blue J
   url: https://www.bluej.com/
@@ -356,9 +355,9 @@ companies:
   stage: growth
   status: active
   source: https://sapphireventures.com/companies/
-  slug: clay
+  slug: clay-com
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: CloudHealth
   url: https://www.cloudhealthtech.com/
@@ -367,9 +366,9 @@ companies:
   stage: growth
   status: acquired
   source: https://sapphireventures.com/companies/
-  slug: cloudhealth-technologies
+  slug: cloudhealth
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Cohesity
   url: https://www.cohesity.com/
@@ -380,7 +379,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: cohesity
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Collectly
   url: https://www.collectly.co/
@@ -391,7 +390,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: collectly
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Altruist (iConnectiva)
   url: http://www.altruistindia.com/iConnectiva/
@@ -411,9 +410,9 @@ companies:
   stage: growth
   status: active
   source: https://sapphireventures.com/companies/
-  slug: constructor
+  slug: constructorio
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Contentful
   url: https://www.contentful.com/
@@ -457,7 +456,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: creatio
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Criteo
   url: https://www.criteo.com/
@@ -534,7 +533,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: datarobot
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Defense Unicorns
   url: https://www.defenseunicorns.com/
@@ -719,9 +718,9 @@ companies:
   stage: growth
   status: active
   source: https://sapphireventures.com/companies/
-  slug: grafana
+  slug: assertsai
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Highspot
   url: https://www.highspot.com/
@@ -972,10 +971,10 @@ companies:
   stage: growth
   status: acquired
   source: https://sapphireventures.com/companies/
-  slug: lavante
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: lavante
+  suggested_slug: lavante-com
 - name: LeanData
   url: https://www.leandatainc.com/
   description: Lead-to-account matching and routing.
@@ -994,10 +993,10 @@ companies:
   stage: growth
   status: acquired
   source: https://sapphireventures.com/companies/
-  slug: khoros-ai
+  slug: lithium
   in_network: true
-  is_api_provider: true
-  matched_by: domain
+  is_api_provider: false
+  matched_by: name-slug
 - name: Livongo
   url: https://www.livongo.com/
   description: Digital chronic condition management.
@@ -1104,9 +1103,9 @@ companies:
   stage: growth
   status: ipo
   source: https://sapphireventures.com/companies/
-  slug: monday
+  slug: monday-com
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Moveworks
   url: https://www.moveworks.com/
@@ -1150,7 +1149,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: netskope
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Newgen Software
   url: https://www.newgensoft.com/
@@ -1205,7 +1204,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: outreach
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Own (OwnBackup)
   url: https://www.ownbackup.com/
@@ -1269,7 +1268,7 @@ companies:
   stage: growth
   status: active
   source: https://sapphireventures.com/companies/
-  slug: pendo
+  slug: pendoio
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -1304,7 +1303,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: podium
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Privacera
   url: https://privacera.com/
@@ -1357,10 +1356,10 @@ companies:
   stage: growth
   status: active
   source: https://sapphireventures.com/companies/
-  slug: qualified
+  slug: qualified-com
   in_network: true
-  is_api_provider: false
-  matched_by: name-slug
+  is_api_provider: true
+  matched_by: domain
 - name: Qubit
   url: https://www.qubit.com/
   description: Ecommerce personalization platform.
@@ -1447,7 +1446,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: return-path
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Rewst
   url: https://rewst.io/
@@ -1511,10 +1510,10 @@ companies:
   stage: growth
   status: active
   source: https://sapphireventures.com/companies/
-  slug: side
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: side
+  suggested_slug: sideinc-com
 - name: Simpplr
   url: https://www.simpplr.com/
   description: AI-powered employee intranet platform.
@@ -1524,7 +1523,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: simpplr
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Socrata
   url: https://www.socrata.com/
@@ -1599,9 +1598,9 @@ companies:
   stage: growth
   status: acquired
   source: https://sapphireventures.com/companies/
-  slug: sumologic
+  slug: sensu
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Sun Basket
   url: https://www.sunbasket.com/
@@ -1632,7 +1631,7 @@ companies:
   stage: growth
   status: active
   source: https://sapphireventures.com/companies/
-  slug: swordhealth
+  slug: sword
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -1656,7 +1655,7 @@ companies:
   source: https://sapphireventures.com/companies/
   slug: acoustic
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Temporal
   url: https://temporal.io/
@@ -1665,7 +1664,7 @@ companies:
   stage: growth
   status: active
   source: https://sapphireventures.com/companies/
-  slug: temporal
+  slug: scalable-software-and-systems
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -1676,10 +1675,10 @@ companies:
   stage: growth
   status: unknown
   source: https://sapphireventures.com/companies/
-  slug: tesseract
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: tesseract
+  suggested_slug: tesseractinvestment-com
 - name: Tetrate
   url: http://tetrate.com/
   description: Service mesh and application connectivity.
@@ -1753,10 +1752,10 @@ companies:
   stage: growth
   status: acquired
   source: https://sapphireventures.com/companies/
-  slug: tremor-video
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: tremor-video
+  suggested_slug: tremorvideodsp-com
 - name: UJET
   url: https://ujet.cx/
   description: Cloud contact center and CX platform.

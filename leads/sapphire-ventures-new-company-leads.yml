@@ -1,4 +1,39 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: sapphire-ventures
-leads: []
+leads:
+- name: Black Duck Software
+  url: https://www.blackducksoftware.com/
+  suggested_slug: black-duck-software
+  sector: security
+  source_vc: sapphire-ventures
+  source: https://sapphireventures.com/companies/
+  stub_created: false
+- name: Lavante
+  url: http://www.lavante.com/
+  suggested_slug: lavante-com
+  sector: saas
+  source_vc: sapphire-ventures
+  source: https://sapphireventures.com/companies/
+  stub_created: false
+- name: Side
+  url: https://www.sideinc.com/
+  suggested_slug: sideinc-com
+  sector: proptech
+  source_vc: sapphire-ventures
+  source: https://sapphireventures.com/companies/
+  stub_created: false
+- name: Tesseract
+  url: https://tesseractinvestment.com/
+  suggested_slug: tesseractinvestment-com
+  sector: fintech
+  source_vc: sapphire-ventures
+  source: https://sapphireventures.com/companies/
+  stub_created: false
+- name: Tremor Video
+  url: https://www.tremorvideodsp.com/
+  suggested_slug: tremorvideodsp-com
+  sector: martech
+  source_vc: sapphire-ventures
+  source: https://sapphireventures.com/companies/
+  stub_created: false
